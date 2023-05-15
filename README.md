@@ -1,0 +1,2 @@
+# .github
+consume quality
