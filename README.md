@@ -1,2 +1,2 @@
 # .github
-consume quality
+craft and quality
